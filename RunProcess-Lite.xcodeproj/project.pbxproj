@@ -8,10 +8,12 @@
 
 /* Begin PBXBuildFile section */
 		AD9151AF30764BD9008E1C88 /* LICENSE.md in Resources */ = {isa = PBXBuildFile; fileRef = AD9151AE30764BD9008E1C88 /* LICENSE.md */; };
+		AD9151B130764C96008E1C88 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = AD9151B030764C96008E1C88 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		AD9151AE30764BD9008E1C88 /* LICENSE.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = LICENSE.md; sourceTree = "<group>"; };
+		AD9151B030764C96008E1C88 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		ADB58DC53076423B00864C24 /* RunProcess-Lite.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "RunProcess-Lite.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -38,6 +40,7 @@
 			isa = PBXGroup;
 			children = (
 				AD9151AE30764BD9008E1C88 /* LICENSE.md */,
+				AD9151B030764C96008E1C88 /* README.md */,
 				ADB58DC73076423B00864C24 /* RunProcess-Lite */,
 				ADB58DC63076423B00864C24 /* Products */,
 			);
@@ -115,6 +118,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AD9151B130764C96008E1C88 /* README.md in Resources */,
 				AD9151AF30764BD9008E1C88 /* LICENSE.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
